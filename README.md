@@ -5,7 +5,7 @@ This extension is designed to extract the Document Object Model (DOM) from Linke
 This extension enables the extraction of the DOM structure from the LinkedIn website. It allows you to retrieve the HTML code of the current browser tab open on a LinkedIn page.
 
 ### Installation
-Download the repository contents or clone it: git clone <https://github.com/shevvss/LinkedIn-DOM-extractor.git>
+Download the repository contents or clone it
 Open Google Chrome and navigate to chrome://extensions/
 Enable Developer mode
 Click on "Load unpacked" and select the folder containing the extension
